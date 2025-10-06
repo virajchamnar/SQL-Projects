@@ -11,7 +11,7 @@ This repository contains SQL projects completed during my MSc Data Science progr
 - **Files:** `ScienceQtech Employee Performance Mapping_Project.sql`, `emp_record_table.csv`, `ScienceQtech Employee Performance Mapping.pdf`
 
 ### 2. [Air Cargo Analysis](./Air-Cargo-Analysis)
-- **Objective:** [Add short problem statement here]
-- **Tools:** SQL
-- **Key Skills:** [Add key skills]
-- **Files:** `queries.sql`, `dataset.xlsx`, `screenshots.pdf`
+- **Objective:** Analyze passenger, ticket, and route data to identify regular customers, busiest routes, and optimize airline operations.
+- **Tools:** SQL, Views, Stored Procedures, Indexing, Window Functions, Rollup
+- **Key Skills:** Querying, Aggregation, Conditional Logic, Advanced SQL features, Performance Optimization
+- **Files:** `Air_Cargo_Analysis_Project.sql`, `air_cargo_schema.sql`, `Air Cargo Analysis.pdf`, `customer.csv`, `passengers_on_flights.csv`, `routes.csv`, `ticket_details.csv`
