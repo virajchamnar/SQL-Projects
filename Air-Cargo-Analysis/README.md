@@ -10,10 +10,10 @@ Air Cargo, an aviation company, provides passenger and freight transportation se
 - Implement SQL database management with performance optimization.
 
 ## Tools & Technologies
-- SQL (MySQL / PostgreSQL / Oracle)  
+- SQL (MySQL)  
 - Database concepts: Views, Stored Procedures, Stored Functions, Indexing, Window Functions, Rollup  
 - Dataset: `customer.csv`, `passengers_on_flights.csv`, `routes.csv`, `ticket_details.csv`  
-- Optional: ER Diagram tools for database design  
+- ER Diagram tools for database design  
 
 ## Key Tasks / Queries Implemented
 1. Created ER diagram representing the airline database.  
@@ -42,7 +42,7 @@ Air Cargo, an aviation company, provides passenger and freight transportation se
 - `air_cargo_schema.sql` – SQL schema creation  
 - `Air Cargo Analysis.pdf` – Project report with results and explanation  
 - `EER Diagram` – ER diagram of the database  
-- `Datasets/`  
+  - `Datasets/`  
   - `customer.csv`  
   - `passengers_on_flights.csv`  
   - `routes.csv`  
@@ -56,3 +56,4 @@ Air Cargo, an aviation company, provides passenger and freight transportation se
 
 ## Conclusion
 This project demonstrates the practical application of SQL in airline operations. By implementing queries, views, and stored procedures, the project enables efficient passenger and route management, optimized resource allocation, and enhanced analytical reporting for better decision-making.
+
