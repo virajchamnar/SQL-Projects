@@ -8,7 +8,7 @@ This repository contains SQL projects completed during my MSc Data Science progr
 - **Objective:** Analyze employee records and project data to support HR appraisal and performance mapping.
 - **Tools:** SQL, Views, Stored Procedures, Indexing
 - **Key Skills:** Querying, Aggregation, Ranking, Advanced SQL features
-- **Files:** `ScienceQtech Employee Performance Mapping_Project.sql`, `emp_record_table.xlsx`, `ScienceQtech Employee Performance Mapping.pdf`
+- **Files:** `ScienceQtech Employee Performance Mapping_Project.sql`, `emp_record_table.csv`, `ScienceQtech Employee Performance Mapping.pdf`
 
 ### 2. [Air Cargo Analysis](./Air-Cargo-Analysis)
 - **Objective:** [Add short problem statement here]
