@@ -12,7 +12,7 @@ ScienceQtech, a data science startup, wants to analyze employee performance and 
 ## Tools & Technologies
 - SQL (MySQL)  
 - Database concepts: Views, Stored Procedures, Stored Functions, Indexing  
-- Dataset: `employee_dataset.xlsx` (used for query execution)  
+- Dataset: `emp_record_table.xlsx` (used for query execution)  
 - Optional: ER Diagram tools for database design  
 
 ## Key Tasks / Queries Implemented
@@ -46,4 +46,5 @@ ScienceQtech, a data science startup, wants to analyze employee performance and 
 
 ## Conclusion
 This project demonstrates how SQL can be applied to real-world HR and organizational scenarios. By executing queries, creating views, and implementing stored procedures, the project highlights the ability to extract meaningful insights, optimize database performance, and facilitate data-driven decision-making.
+
 
