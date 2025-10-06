@@ -34,9 +34,9 @@ ScienceQtech, a data science startup, wants to analyze employee performance and 
 16. Analyze salary distribution by continent and country.
 
 ## Files
-- `queries.sql` – SQL scripts for all queries listed above  
-- `employee_dataset.xlsx` – Dataset used for analysis (optional, small file)  
-- `screenshots.pdf` – Optional, includes outputs of executed queries  
+- `ScienceQtech Employee Performance Mapping_Project.sql` – SQL scripts for all queries listed above  
+- `emp_record_table.xlsx` – Dataset used for analysis
+- `ScienceQtech Employee Performance Mapping.pdf` – Optional, includes outputs of executed queries  
 
 ## Key Learnings
 - Practical application of SQL for employee performance mapping  
@@ -46,6 +46,7 @@ ScienceQtech, a data science startup, wants to analyze employee performance and 
 
 ## Conclusion
 This project demonstrates how SQL can be applied to real-world HR and organizational scenarios. By executing queries, creating views, and implementing stored procedures, the project highlights the ability to extract meaningful insights, optimize database performance, and facilitate data-driven decision-making.
+
 
 
 
