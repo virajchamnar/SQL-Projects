@@ -1,6 +1,6 @@
 # SQL Projects Portfolio
 
-This repository contains SQL projects completed during my MSc Data Science program. Each project demonstrates practical SQL skills including querying, aggregation, joins, indexing, stored procedures, views, and performance optimization.
+This repository contains SQL projects completed during my Data Science program. Each project demonstrates practical SQL skills including querying, aggregation, joins, indexing, stored procedures, views, and performance optimization.
 
 ## Projects
 
