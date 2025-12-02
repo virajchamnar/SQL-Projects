@@ -4,14 +4,16 @@ This repository contains SQL projects completed during my Data Science program. 
 
 ## Projects
 
-### 1. [ScienceQtech Employee Performance Mapping](./ScienceQtech-Employee-Performance-Mapping)
-- **Objective:** Analyze employee records and project data to support HR appraisal and performance mapping.
-- **Tools:** SQL, Views, Stored Procedures, Indexing
-- **Key Skills:** Querying, Aggregation, Ranking, Advanced SQL features
-- **Files:** `ScienceQtech Employee Performance Mapping_Project.sql`, `emp_record_table.csv`, `ScienceQtech Employee Performance Mapping.pdf`
+### 1. [Marketing Campaign Analysis](./Marketing-Campaign-Analysis)
+- **Objective:** Analyze marketing campaign performance to evaluate effectiveness, understand customer response behavior, and optimize future targeting strategies.
+- **Tools:** Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook
+- **Key Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Campaign Performance Evaluation, Customer Segmentation & Response Analysis, Data Visualization & Insight Generation, KPI Interpretation for Marketing Decisions
+- **Files:** `marketing_campaign_problem_statement.pdf`, `Data Dictionary - Response to marketing campaigns.pdf`, `Marketing_Campaign - Project.pdf`, `Marketing_Campaign.ipynb`, `marketing_data.csv`
 
-### 2. [Air Cargo Analysis](./Air-Cargo-Analysis)
-- **Objective:** Analyze passenger, ticket, and route data to identify regular customers, busiest routes, and optimize airline operations.
-- **Tools:** SQL, Views, Stored Procedures, Indexing, Window Functions, Rollup
-- **Key Skills:** Querying, Aggregation, Conditional Logic, Advanced SQL features, Performance Optimization
-- **Files:** `Air_Cargo_Analysis_Project.sql`, `air_cargo_schema.sql`, `Air Cargo Analysis.pdf`, `customer.csv`, `passengers_on_flights.csv`, `routes.csv`, `ticket_details.csv`
+
+### 2. [Sales Analysis](./Sales-Analysis)
+- **Objective:** Analyze historical sales data to uncover trends, customer behavior, and performance patterns that support data-driven business and marketing decisions.
+- **Tools:** Python, Pandas, NumPy, Matplotlib/Seaborn, Jupyter Notebook
+- **Key Skills:** Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Time-Series Trend Analysis (Daily, Weekly, Monthly, Quarterly), Sales Performance Evaluation, Customer & Product Behavior Insights, Data Visualization & Charting, Business Interpretation & Insight Communication
+- **Files:** `sales_analysis_problem_statement.pdf`, `AusApparalSales4thQrt2020.csv`, `Sales_Analysis - Project.pdf`, `Sales_Analysis.ipynb`
+
